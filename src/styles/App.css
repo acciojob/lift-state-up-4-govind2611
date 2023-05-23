@@ -1,1 +1,29 @@
 
+.parent{
+    background-color: greenyellow;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.child{
+    background-color: coral;
+}
+.inputs{
+    display: flex;
+    gap: 20px;
+}
+
+ul{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    
+}
+button{
+    margin: 10px;
+   
+}
